@@ -1,0 +1,86 @@
+.principal
+{
+    background-color: fuchsia;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.caja
+{
+    background-color: black;
+    width: 400px;
+    height: 800px;
+    margin: 15px;
+}
+
+.caja 
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.c1 
+{
+    width: 100px;
+    height: 180px;
+    background-color: red;
+    margin: 15px;
+}
+
+.caj
+{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.c2
+{
+    
+    width: 360px;
+    height: 100px;
+    background-color: yellow;
+    top: 300px;
+    margin: 15px;
+}
+
+.caja 
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.c3
+{
+    width: 100px;
+    height: 180px;
+    background-color: green;
+    margin: 15px;
+}
+
+
+.c11
+{
+    width: 365px;
+    height: 100px;
+    background-color: rgb(68, 139, 197);
+    margin: 15px
+}
+  
+
+
+.caja 
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.c22
+{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: 15px;
+}  
+  
